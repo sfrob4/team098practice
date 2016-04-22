@@ -19,11 +19,7 @@ Sam Roberts:
         Email: sfrob4@student.monash.edu
         Phone: 0499106886
         Facebook: Sam Roberts
-<<<<<<< HEAD
-
 
 hi hello
-
-
 hello
->>>>>>> origin/master
+
