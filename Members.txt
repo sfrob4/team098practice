@@ -25,3 +25,5 @@ hi hello
 hello
 
 >>>>>>> origin/master
+
+lots and lots of branches
