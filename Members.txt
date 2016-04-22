@@ -24,4 +24,6 @@ Sam Roberts:
 hi hello
 hello
 
->>>>>>> origin/master
+i broke it
+
+>>>>>>> refs/remotes/origin/I-think-I-broke-it
